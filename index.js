@@ -10,3 +10,5 @@ let header = document.querySelector('#page-header')
     let "dog-name" = document.querySelector('#dog-name')
     "dog-name".style.textAlign = 'left'
 
+    let "footer" = document.querySelector('#footer')
+    "footer".style.color = 'pink'
